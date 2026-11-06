@@ -1,0 +1,311 @@
+{
+  "title": "Sehrish – Fashion & Textile Designer | Brand Manager",
+  "brand": "Sehrish",
+  "nav": [
+    {
+      "label": "Home",
+      "url": "#top"
+    },
+    {
+      "label": "About",
+      "url": "#about"
+    },
+    {
+      "label": "Expertise",
+      "url": "#expertise"
+    },
+    {
+      "label": "Services",
+      "url": "#services"
+    },
+    {
+      "label": "Portfolio",
+      "url": "#portfolio"
+    },
+    {
+      "label": "Experience",
+      "url": "#experience"
+    },
+    {
+      "label": "Contact",
+      "url": "#contact"
+    }
+  ],
+  "nav_button": {
+    "label": "Let’s Talk",
+    "url": "#contact"
+  },
+  "hero": {
+    "tag": "Fashion & Textile Designer · Brand Manager",
+    "headline_a": "Collections that",
+    "headline_em": "look like one",
+    "headline_b": "brand.",
+    "lede": "13+ years in fashion and textile design. I plan seasonal collections around market trends and keep the look consistent from concept to production.",
+    "buttons": [
+      {
+        "label": "View Portfolio",
+        "url": "#portfolio",
+        "style": "primary"
+      },
+      {
+        "label": "View Resume",
+        "url": "https://drive.google.com/file/d/1L0rEtxC_sI1doefF4HX1jcHtqkcPLFmP/view?usp=drive_link",
+        "style": "outline"
+      },
+      {
+        "label": "Let’s Talk",
+        "url": "#contact",
+        "style": "outline"
+      }
+    ],
+    "image": "hero.jpg",
+    "alt": "Portrait of Sehrish"
+  },
+  "about": {
+    "tag": "About",
+    "title": "Smart design. Consistent brands.",
+    "text": "I have worked with seven textile and fashion houses across apparel, home textiles, kids and resort wear. I manage the full lifecycle from concept to production, and I use AI-assisted workflows, with certificates from Google, UNESCO and Gemini, to produce content and visuals faster.",
+    "stats": [
+      {
+        "value": "13+",
+        "label": "years of design experience"
+      },
+      {
+        "value": "7",
+        "label": "companies worked with"
+      },
+      {
+        "value": "6",
+        "label": "product categories"
+      },
+      {
+        "value": "2",
+        "label": "diplomas in design"
+      }
+    ]
+  },
+  "expertise": {
+    "tag": "Expertise",
+    "title": "Technical & creative expertise",
+    "sub": "From design creation to print-ready production files, I handle the whole process.",
+    "items": [
+      "Textile Design Creation and Development",
+      "CAD Development and Technical Preparation",
+      "Colour Separation for Rotary, Flatbed and Digital Printing",
+      "Print-ready Artwork and Production Files",
+      "Technical Troubleshooting and Resolution of Fabric Printing Issues",
+      "Identification and Resolution of Design, Colour, Registration and Printing-related Technical Challenges",
+      "Direct Vendor & Sampling Coordination",
+      "Brand Management",
+      "Fabric Selection & Textile Sourcing",
+      "Integrated Design & CAD Workflow Management"
+    ]
+  },
+  "services": {
+    "tag": "Services",
+    "title": "What I do",
+    "sub": "From the first trend idea to the finished collection.",
+    "items": [
+      {
+        "title": "Collection Planning",
+        "text": "Seasonal collections developed according to market trends, planned end to end, including styling for diverse body types."
+      },
+      {
+        "title": "Textile & Print Design",
+        "text": "Digital and rotary prints, kids pattern design, creation designing and detailed embroidery design."
+      },
+      {
+        "title": "Apparel Design",
+        "text": "Pret (ready-to-wear), evening wear and party wear, plus resort wear and T-shirt design, backed by CAD drafting for luxury collections."
+      },
+      {
+        "title": "AI-Assisted Workflow",
+        "text": "AI-assisted creative workflows to produce content and visuals faster without losing the brand’s look."
+      }
+    ]
+  },
+  "portfolio": {
+    "tag": "Portfolio",
+    "title": "Selected work",
+    "sub": "Tap a project to view it larger.",
+    "items": [
+      {
+        "title": "Resort wear",
+        "category": "Prints & patterns",
+        "image": "work-01.jpg"
+      },
+      {
+        "title": "T-shirt design",
+        "category": "Apparel",
+        "image": "work-02.jpg"
+      },
+      {
+        "title": "Rubina b. Collection",
+        "category": "Apparel",
+        "image": "work-03.jpg"
+      },
+      {
+        "title": "Rubina b. Collection",
+        "category": "Apparel",
+        "image": "work-04.jpg"
+      },
+      {
+        "title": "Rubina b. Collection",
+        "category": "Apparel",
+        "image": "work-05.jpg"
+      },
+      {
+        "title": "Rag & Bone showcase",
+        "category": "Apparel",
+        "image": "work-06.jpg"
+      },
+      {
+        "title": "Bedding showcase",
+        "category": "Home textiles",
+        "image": "work-07.jpg"
+      },
+      {
+        "title": "Art of home textiles",
+        "category": "Home textiles",
+        "image": "work-08.jpg"
+      },
+      {
+        "title": "Kids pattern design",
+        "category": "Prints & patterns",
+        "image": "work-09.jpg"
+      },
+      {
+        "title": "Kids pattern design",
+        "category": "Prints & patterns",
+        "image": "work-10.jpg"
+      },
+      {
+        "title": "Excellence in bunch export",
+        "category": "Prints & patterns",
+        "image": "work-11.jpg"
+      },
+      {
+        "title": "My own creation",
+        "category": "Prints & patterns",
+        "image": "work-12.jpg"
+      }
+    ]
+  },
+  "experience": {
+    "tag": "Experience",
+    "title": "Where I’ve worked",
+    "sub": "Freelance and in-house roles with textile and fashion houses.",
+    "rows": [
+      {
+        "period": "2026 to present",
+        "company": "Firdous",
+        "role": "Brand Manager."
+      },
+      {
+        "period": "2026",
+        "company": "Rag and Bone",
+        "role": "Freelance designer."
+      },
+      {
+        "period": "2024 to 2026",
+        "company": "Gohar Textile, Lahore",
+        "role": "Developing innovative textile patterns and seasonal collections according to market trends."
+      },
+      {
+        "period": "2018 to 2024",
+        "company": "Jhang Textile, Punjab",
+        "role": "Freelance designer."
+      },
+      {
+        "period": "2016 to 2018",
+        "company": "Evolution Textile",
+        "role": "Fashion designer: apparel design, collection planning and styling for diverse body types."
+      },
+      {
+        "period": "2015 to 2019",
+        "company": "Saira Habib",
+        "role": "CAD designer: digital drafting and intricate CAD layouts for high-end luxury collections."
+      },
+      {
+        "period": "2012 to 2016",
+        "company": "Falcon Textile",
+        "role": "CAD designer (freelance)."
+      }
+    ],
+    "strengths_tag": "Specialisation",
+    "strengths_title": "Strengths",
+    "strengths": [
+      "Digital and rotary prints",
+      "Creation designing",
+      "Pret (ready-to-wear)",
+      "Evening wear and party wear",
+      "Detailed embroidery design",
+      "AI-assisted creative workflows"
+    ],
+    "certs": [
+      {
+        "image": "cert-1.jpg",
+        "alt": "Diploma in Fashion Design certificate from Alison"
+      },
+      {
+        "image": "cert-2.jpg",
+        "alt": "AI and automation certificates"
+      }
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Good to know",
+    "sub": "",
+    "items": [
+      {
+        "q": "What kind of work do you do?",
+        "a": "Collection planning, textile and print design, apparel design and AI-assisted creative workflows, across apparel, home textiles, kids and resort wear."
+      },
+      {
+        "q": "How much experience do you have?",
+        "a": "More than 13 years in fashion and textile design, with seven companies and a Brand Manager role at Firdous since 2026."
+      },
+      {
+        "q": "What are your qualifications?",
+        "a": "A Diploma in Textile Designing from ART ZONE Textile Designing Institute (2010) and an online Diploma in Fashion Designing from Alison (2012), plus certificates from Google, Urdu AI, UNESCO and Gemini."
+      },
+      {
+        "q": "Do you work on luxury and occasion wear?",
+        "a": "Yes. I have done CAD layouts for high-end luxury collections, and I specialise in evening wear, party wear and detailed embroidery design."
+      },
+      {
+        "q": "How can I contact you?",
+        "a": "Use the form below, email Sehrishh869@gmail.com, or call 0302 2919271 or 0330 2493674."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Start a conversation with me",
+    "text": "Have a collection, a brand or a role in mind? Send a message.",
+    "email": "Sehrishh869@gmail.com",
+    "phones": [
+      {
+        "number": "0302 2919271"
+      },
+      {
+        "number": "0330 2493674"
+      }
+    ],
+    "socials": [
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/Sehrish.Azm"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/sehrish-azeem"
+      },
+      {
+        "label": "Upwork",
+        "url": "https://www.upwork.com/freelancers/~01223e1c978e4c0ce2"
+      }
+    ]
+  },
+  "footer": "© 2026 Sehrish. All rights reserved."
+}
